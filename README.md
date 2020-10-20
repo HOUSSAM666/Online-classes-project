@@ -1,5 +1,5 @@
 # Online-classes-project
 Houssam Mesbah GI S3
 Mini projet en utilisant du HTML/CSS
-Site web du Online Classes
-Un fil pour Html Code l'autre pour Css Code et les Images utilise dans mon site.
+Site web du Online Classes.
+Si les images ne foctionne pas dans votre machine j'ai ajoute deux images "Image de site" qui montre la vue de mon site.
